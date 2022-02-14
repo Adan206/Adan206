@@ -1,6 +1,7 @@
 ### Hi there 👋
  * 🔭 I’m currently working on a React application to showcase my react skills
  * 🌱 I’m learning redux and redux toolkit with typescript
+ * How to look 
  
 <!--
 **Adan206/Adan206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
