@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Adan 👋
  * 🔭 I’m currently working on a React application to showcase my react skills
  * 🌱 I’m learning redux and redux toolkit with typescript
  * How to look for solutions to a problem is a skill on its own :)
