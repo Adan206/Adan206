@@ -1,7 +1,7 @@
 ### Hi there, I am Adan 👋
- * 🔭 I’m currently working on a React application to showcase my react skills
- * 🌱 I’m learning redux and redux toolkit with typescript
- * How to look for solutions to a problem is a skill on its own :)
+ * 🔭  I’m currently working on a React application with typescript and redux to showcase my react skills
+ * 🌱  I’m learning both redux and redux toolkit
+ * 🤔  practicing how to properly look for solutions using online tools  :)
  * 📫  You can view my portfolio here: https://adan206.github.io/adan-portfolio/ 
  <!--
 **Adan206/Adan206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
