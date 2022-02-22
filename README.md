@@ -1,5 +1,5 @@
 ### Hi there, I am Adan 👋
- * 🔭  I’m currently working on a React application with typescript and redux to showcase my react skills
+ * 🔭  I’m currently working on a React application with typescript and redux
  * 🌱  I’m learning both redux and redux toolkit
  * 🤔  practicing how to properly look for solutions using online tools  :)
  * 📫  You can view my portfolio here: https://adan206.github.io/adan-portfolio/ 
