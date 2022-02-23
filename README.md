@@ -1,6 +1,6 @@
 ### Hi there, I am Adan 👋
  * 🔭  I’m currently working on a personal project using React with typescript and redux
- *  💬 
+ *  💬 will 
  * 🌱  I’m learning both redux and redux toolkit
  * 🤔  practicing how to properly look for solutions using online tools  :)
  * 📫  You can view my portfolio here: https://adan206.github.io/adan-portfolio/ 
