@@ -4,7 +4,7 @@
  * 🌱  I’m learning both redux and redux toolkit with react
  * 🤔  practicing how to properly look for solutions using online tools  :)
  * 📫  You can view my portfolio here: https://adan206.github.io/adan-portfolio/ 
- * 💬  Gatsby blog to document my journey as a
+ * 💬  Gatsby blog to document my journey as a web
  <!--
 **Adan206/Adan206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
