@@ -1,6 +1,6 @@
 ### Hi there, I am Adan 👋
  * 🔭  I’m currently working on a personal project using React with typescript
- * Coin star; a brillaint 
+ * Coin star; a brillaint app
  *  💬 will update here when ready
  * 🌱  I’m learning both redux and redux toolkit with react
  * 🤔  practicing how to properly look for solutions using online tools  :)
