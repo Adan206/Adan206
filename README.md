@@ -1,5 +1,5 @@
 ### Hi there, I am Adan 👋
- * 🔭  I’m currently working on a personal project using React with typescript
+ * 🔭  currently working on a personal project using React with typescript
  * Passion project called: Coin star; a brillaint app that let's you search
  *  💬 will update here when ready
  * 🌱  I’m learning both redux and redux toolkit with react
