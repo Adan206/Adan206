@@ -1,7 +1,6 @@
 ### Hi there, I am Adan 👋
  * 🔭  currently working on a personal project using React with typescript
  * Passion project called: Coin star; a brillaint app that let's you search crypto coins
- * 
  * 🌱  I’m learning both redux and redux toolkit with react
  * 🤔  practicing how to properly look for solutions using online tools  :)
  * 📫  You can view my portfolio here: https://adan206.github.io/adan-portfolio/ 
