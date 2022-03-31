@@ -2,7 +2,7 @@
  * 🔭  currently working on a personal project using React with typescript
  * Passion project called: Coin star; a brillaint app that let's you search crypto coins
  * 🌱  I’m learning redux and redux-toolkit with react typescript
- * * 🤔  practicing how to properly look for solutions using online tools  :)
+ * * 🤔  practicing how to properly look for solutions using online tools  :
  * 📫  You can view my portfolio here: https://adan206.github.io/adan-portfolio/ 
  * 💬  created Gatsby blog to document my journey as a web pro developer
  <!--
